@@ -1,7 +1,15 @@
+
 # Odin's Project - Foundations Course
 
-[Project Recipes][precipes]
-[Project: Landing Page][plandingpage]
+Studies done with the help of the Odin's Project website.
 
-[plandingpage]: https://github.com/marcythany/odin-landing-page "Project: Landing Page" </br>
-[precipes]: https://github.com/marcythany/odin-recipes "Project: Recipes"
+
+## Reference
+
+ - [Odin's Project](https://www.theodinproject.com/)
+
+
+## Studies
+
+- [Odin Recipes](https://github.com/marcythany/odin-recipes)
+- [Odin Recipes](https://github.com/marcythany/odin-recipes)
