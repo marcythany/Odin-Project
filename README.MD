@@ -12,4 +12,4 @@ Studies done with the help of the Odin's Project website.
 ## Studies
 
 - [Odin Recipes](https://github.com/marcythany/odin-recipes)
-- [Odin Recipes](https://github.com/marcythany/odin-recipes)
+- [Landing Page](https://github.com/marcythany/odin-landing-page)
